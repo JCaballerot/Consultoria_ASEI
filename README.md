@@ -10,19 +10,19 @@ El presente documento tiene como objetivo exponer el desarrollo metodológico y 
 
 #### Model deployment
 
-Contiene todos los archivos necesarios para desplegar los modelos.
+  Contiene todos los archivos necesarios para desplegar los modelos.
 
 #### Model development
 
-Contiene los Notebooks utilizados para el desarrollo de los modelos analíticos
+  Contiene los Notebooks utilizados para el desarrollo de los modelos analíticos
 
 #### Presentaciones
 
-Contiene las presentaciones vistas en las reuniones de equipo
+  Contiene las presentaciones vistas en las reuniones de equipo
 
 #### Documentación metodológica
 
-Contiene la memoria de construcción de los modelos desarrollados
+  Contiene la memoria de construcción de los modelos desarrollados
 
 
 Julio 2022
